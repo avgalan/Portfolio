@@ -8,16 +8,16 @@ I began my education in bioengineering because of my curiosity about the fundame
 ## Projects:
 ### Happy Hour Classifier
 Noticing the lack of happy hour informational resources online, I set out to use data science tools to find restaurants with happy hours. Skills used: webscraping, image processing, convolutional neural network, OCR tools
-Below are links to a more detailed project report and github repository.
-[Report](https://github.com/avgalan/ga_capstone/blob/master/technical_report.ipynb)
+Below are links to a more detailed project report and github repository.<br/>
+[Report](https://github.com/avgalan/ga_capstone/blob/master/technical_report.ipynb)<br/>
 [Github Repository](https://github.com/avgalan/ga_capstone)
 
 ### Data for Diplomas
-Explored data of high school graduation rates. Used machine learning modeling to identify the most important features contributing to student graduation.
+Explored data of high school graduation rates. Used machine learning modeling to identify the most important features contributing to student graduation.<br/>
 [Github Repository](https://github.com/avgalan/ga_project_3)
 
 
 #### Contact Information
-[linkedin](https://www.linkedin.com/in/alex-v-galan/)
-[email](alexvgalan@gmail.com)
-[github](https://github.com/avgalan)
+linkedin: <https://www.linkedin.com/in/alex-v-galan/><br/>
+email: <alexvgalan@gmail.com><br/>
+github: <https://github.com/avgalan><br/>
