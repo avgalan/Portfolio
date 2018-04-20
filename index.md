@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Alex Galán
+### Data Scientist
+[Resume](https://drive.google.com/open?id=1qcwypRwYOPhGbBgmRJoiwjD7-fmVMtWh1kHWpiwBHOE)
 
-You can use the [editor on GitHub](https://github.com/avgalan/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me:
+I began my education in bioengineering because of my curiosity about the fundamental questions of life answerable through the scientific process, as well as my love for critical thinking and problem solving. After transitioning into industry, I found I wanted more opportunities for continuous learning and challenges. For several years, I entered an exploratory phase in which I sampled other possible opportunities. Ultimately I arrived at the conclusion that data science is the field I am most interested in pursuing because of the vast depth of knowledge to explore, innate engagement with critical thinking, and robust toolkit capable of answering truly meaningful questions across many different industries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects:
+### Happy Hour Classifier
+Noticing the lack of happy hour informational resources online, I set out to use data science tools to find restaurants with happy hours. Skills used: webscraping, image processing, convolutional neural network, OCR tools
+Below are links to a more detailed project report and github repository.
+[Report](https://github.com/avgalan/ga_capstone/blob/master/technical_report.ipynb)
+[Github Repository](https://github.com/avgalan/ga_capstone)
 
-### Markdown
+### Data for Diplomas
+Explored data of high school graduation rates. Used machine learning modeling to identify the most important features contributing to student graduation.
+[Github Repository](https://github.com/avgalan/ga_project_3)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avgalan/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Contact Information
+[linkedin](https://www.linkedin.com/in/alex-v-galan/)
+[email](alexvgalan@gmail.com)
+[github](https://github.com/avgalan)
