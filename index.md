@@ -1,5 +1,6 @@
 # Alex Galán
 ### Data Scientist
+<img src="profile_picture.jpg" width="200" height="190"><br/>
 [Resume](https://drive.google.com/open?id=1qcwypRwYOPhGbBgmRJoiwjD7-fmVMtWh1kHWpiwBHOE)
 
 ## About Me:
